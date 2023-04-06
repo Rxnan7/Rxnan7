@@ -1,11 +1,11 @@
 ### Sup 	:smile:
 
-Programador e Estudante;
+Programmer and Student;
 
 Etec 2/3;
 
-Programador de FrontEnd; :slightly_smiling_face:	
+FrontEnd programmer; 🙂
 
-Cursando Informática
+studying information of technology
 
-Linguagens que programo: PHP, Css, JAVASCRIPT, HTML
+Languages I program: PHP, CSS, JAVASCRIPT, HTML
