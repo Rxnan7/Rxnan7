@@ -1,8 +1,6 @@
 ### Sup 	:smile:
 
-Programmer and Student;
-
-FrontEnd programmer; 🙂
+FrontEnd programmer and Student;🙂
 
 studying information of technology
 
